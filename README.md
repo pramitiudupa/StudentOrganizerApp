@@ -45,7 +45,7 @@ Open in Android Studio → connect a device with USB debugging → **Run ▶**.
 Built with AGP 9.3, Kotlin 2.2, Compose BOM 2026.02, navigation-compose 2.10.1, minSdk 29, targetSdk 37.
 
 ## Demo video
-See [`demo/`](demo/) (or the link here).
+[Watch the demo video (demo/demo.mp4)](demo/demo.mp4), recorded on a Samsung Galaxy S22.
 
 ## Documentation
 A detailed code walkthrough is in [`docs/`](docs/README.md).

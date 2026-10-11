@@ -1,3 +1,3 @@
 # Demo video
 
-Put the screen recording here as `demo.mp4` (GitHub limit: 100 MB per file).
+[demo.mp4](demo.mp4) - screen recording of the Student Organizer App running on a Samsung Galaxy S22.
