@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Student Organizer</string>
+    <string name="student_avatar_description">Student profile picture</string>
+</resources>
